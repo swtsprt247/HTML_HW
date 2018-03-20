@@ -1,0 +1,39 @@
+.lead_story {
+    font-size: 25px;
+    color: rgb(19, 177, 164);
+}
+
+h1 {
+    background-color: rgb(86, 219, 219);
+}
+.button {
+    background-color: rgb(231, 241, 231);
+    border: none;
+    color: rgba(255, 255, 255, 0.26);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.float-left {
+float: left;
+block-size: 80%
+  }
+
+.font_size{
+    font-size: 30px;
+
+}
+
+.right_sidebar {
+    float: right  
+}
+
+.Picture_link {
+    width: 50px;
+    
+}
